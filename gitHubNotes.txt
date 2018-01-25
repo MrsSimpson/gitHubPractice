@@ -8,3 +8,5 @@ ls -a			//shows list of all the files in directory
 git status		//shows the status of git repository
 git add			//adds file to staging area
 git commit -m " "	//commits file and adds message for version control
+git remote add  	//
+git 
