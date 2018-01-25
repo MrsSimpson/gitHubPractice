@@ -1,0 +1,8 @@
+cd Desktop/  	//Changes directory to Desktop
+mkdir nameofFile  //creates a new file in the directory specified
+ls		// lists items in current directory
+touch	fileName.txt	//creates a new file inside the current directory
+open 	fileName.txt 	//opens the txt file that was just created
+git init		//initializes Git repository working directory
+ls -a			//shows list of all the files in directory
+git status		//shows the status of git repository
