@@ -6,7 +6,8 @@ open 	fileName.txt 	//opens the txt file that was just created
 git init		//initializes Git repository working directory
 ls -a			//shows list of all the files in directory
 git status		//shows the status of git repository
-git add			//adds file to staging area
+git add			//pushes file to staging area
 git commit -m " "	//commits file and adds message for version control
-git remote add  	//
-git 
+git log			//shows what changes have been made to the file
+git checkout 		//rolls back to a previous version of the file
+git diff <fileName> 	//shows the changes that were made to the file
